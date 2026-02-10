@@ -1,0 +1,10 @@
+[package]
+name = "env-parser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dotenvy = "0.15"
+thiserror = "1.0"
+url = "2.5"
+clap = { version = "4.5", features = ["derive"] }
