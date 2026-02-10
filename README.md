@@ -151,6 +151,21 @@ The tool uses Rust's `Result` type for error handling and provides clear error m
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## Support
+
+If you find this project useful and would like to support its development, donations are welcome and appreciated! 
+
+You can contribute via:
+- **GitHub Sponsors**: [Sponsor me](https://github.com/sponsors/victorcesc)
+- **PayPal**: victorcesconetto@gmail.com
+- **PIX** (Brazil): Contact me at victorcesconetto@gmail.com
+
+Any contribution, no matter how small, helps keep this project maintained and improved. Thank you! 🙏
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Author
 
 **Victor Cesconetto**
