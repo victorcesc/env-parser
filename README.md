@@ -151,10 +151,6 @@ The tool uses Rust's `Result` type for error handling and provides clear error m
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Add your license here]
-
 ## Author
 
 **Victor Cesconetto**
